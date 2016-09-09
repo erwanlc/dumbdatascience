@@ -66,6 +66,12 @@ defaults:
     values:
       layout: single
 
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+
+
 # SEO Related
 google_site_verification :
 bing_site_verification   :
