@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "DumData Science"
+title                    : "Dumb Data Science"
 title_separator          : "-"
-name                     : "Erwan LCovec"
+name                     : "Erwan Le Covec"
 description              : "An amazing website."
 url                      : "https://erwanlc.github.io"
 baseurl                  : "/dumbdatascience"
@@ -109,12 +109,12 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :https://github.com/erwanlc
+  github           :  https://github.com/erwanlc
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :https://fr.linkedin.com/in/erwan-le-covec-50aa1aa5/en
+  linkedin         :  https://fr.linkedin.com/in/erwan-le-covec-50aa1aa5/en
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
