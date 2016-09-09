@@ -18,7 +18,4 @@ This website is a personnal space where I put all my little projects and how I m
 Note:The website is in alpha right now and I will try to improve it as soon as possible.
 
 This website was powered thanks to jekyll! {% include icon-github.html username="jekyll" %}
-      <li><a href="http://gith
-ub.com/{{ site.author.github }}"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
-    {% endif %}
 
