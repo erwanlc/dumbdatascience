@@ -11,5 +11,4 @@ layouts_gallery:
   - url: mm-layout-archive.png
     image_path: mm-layout-archive.png
     alt: "archive layout example"
-author_profile: true
 ---
