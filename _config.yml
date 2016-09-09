@@ -97,10 +97,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Erwan Le Covec"
   avatar           : "bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : "Fresh engineer in computer science and Big Data."
+  location         : "It will change soon"
   email            :
   uri              :
   bitbucket        :
@@ -109,12 +109,12 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           :https://github.com/erwanlc
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         :https://fr.linkedin.com/in/erwan-le-covec-50aa1aa5/en
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
