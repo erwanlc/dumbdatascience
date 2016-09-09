@@ -1,4 +1,4 @@
 ---
-title: "You can comment now!"
+title: "You can comment"
 ---
 
