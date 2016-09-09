@@ -9,8 +9,10 @@ And random text
 
 
 {% highlight python %}
+
 def show():
   print "test"
+
 {% endhighlight %}
 
 ```python
@@ -20,6 +22,7 @@ print s
 
 
 {% highlight ruby %}
+
 def show
   @widget = Widget(params[:id])
   respond_to do |format|
@@ -27,4 +30,5 @@ def show
     format.json { render json: @widget }
   end
 end
+
 {% endhighlight %}
