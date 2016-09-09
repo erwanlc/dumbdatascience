@@ -6,3 +6,8 @@ title: "My First post"
 
 
 And random text
+
+{% highlight python %}
+def show():
+  print "test"
+{% endhighlight %}
