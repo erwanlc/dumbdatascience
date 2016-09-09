@@ -9,7 +9,7 @@
 locale                   : "en"
 title                    : "DumData Science"
 title_separator          : "-"
-name                     : "Erwan Le Covec"
+name                     : "Erwan LCovec"
 description              : "An amazing website."
 url                      : "https://erwanlc.github.io"
 baseurl                  : "/dumbdatascience"
