@@ -1,6 +1,5 @@
 ---
 title: "My First post"
-comments: false
 ---
 
 # This is a post
