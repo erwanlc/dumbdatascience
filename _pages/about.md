@@ -17,5 +17,4 @@ This website is a personnal space where I put all my little projects and how I m
 
 Note:The website is in alpha right now and I will try to improve it as soon as possible.
 
-This website was powered thanks to jekyll! [jekyll](/images/git-hub.png)
 
