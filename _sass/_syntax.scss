@@ -11,11 +11,11 @@ div.highlighter-rouge, figure.highlight {
   box-shadow: $box-shadow;
 
   .highlight {
-    margin: 0;
-    padding: 1em;
-    font-family: $monospace;
-    font-size: $type-size-7;
-    line-height: 1.8;
+border: 1px solid #d5d5e9;
+  background-color: #eef;
+  padding: 8px 12px;
+  border-radius: 3px;
+font-size: 15px;
   }
 }
 
