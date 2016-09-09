@@ -1,7 +1,6 @@
 ---
 permalink: /about/
 title: "About"
-layout: about-layout
 layouts_gallery:
   - url: mm-layout-splash.png
     image_path: mm-layout-splash.png
