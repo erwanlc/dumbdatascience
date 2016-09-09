@@ -3,7 +3,6 @@ main:
   - title: "About"
     url: /about/
 
-main:
   - title: "Pictures"
     url: /pictures/
 
