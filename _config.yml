@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "Dumb Data Science"
 title_separator          : "-"
-name                     : "Your Name"
+name                     : "Erwan Le Covec"
 description              : "An amazing website."
 url                      : "https://erwanlc.github.io/"
 baseurl                  : "/dumbdatascience"
