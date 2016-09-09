@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Dumb Data Science"
+title                    : "DumData Science"
 title_separator          : "-"
 name                     : "Erwan Le Covec"
 description              : "An amazing website."
