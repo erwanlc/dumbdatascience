@@ -13,7 +13,10 @@ def show():
   print "test"
 {% endhighlight %}
 
-
+```python
+s = "Python syntax highlighting"
+print s
+```
 
 
 {% highlight ruby %}
