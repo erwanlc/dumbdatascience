@@ -15,3 +15,5 @@ gallery:
 ---
 
 This test
+
+{% include gallery caption="gallery" %}
