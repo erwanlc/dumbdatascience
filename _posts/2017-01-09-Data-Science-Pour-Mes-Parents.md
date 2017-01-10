@@ -5,7 +5,7 @@ comments: false
 
 # Introduction
 
-Ma mère c'est souvent demandé ce que je faisait en tant que Data Sciencist, quelles étaient mes tâches quotidiennes, etc...Je vais donc essayer de donner ma vision de mon travail ici.
+Ma mère c'est souvent demandé ce que je faisait en tant que Data Sciencist, quelles étaient mes tâches quotidiennes, etc... Je vais donc essayer de donner ma vision de mon travail ici.
 
 # Le Data Scientist
 
