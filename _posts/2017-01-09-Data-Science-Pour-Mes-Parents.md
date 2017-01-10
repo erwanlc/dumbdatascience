@@ -61,8 +61,9 @@ Très souvent, la dernière étape du processus d'analyse de donnée est de fair
 Chercher par soi-même les ce que peuvent nous dire les données serait un travail très complexe et fastidieux, c'est pourquoi le machine learning est utilisé pour que l'ordinateur trouve lui-même une signification aux données ou trouve lui même les relations qui lient les données.
 
 Le machine learning est séparé en deux groupes:
-    - Machine Learning Supervisé
-    - Machine Learning Non Supervisé
+
+- Machine Learning Supervisé
+- Machine Learning Non Supervisé
 
 ## Le Machine Learning Non Supervisé
 Ce type de machine learning est utilisé lorsque que l'on a des données mais que l'on ne sais pas vraiment dans quelle direction aller, lorsque l'on en sait pas ce que l'on cherche.
@@ -70,8 +71,9 @@ Le data scientist va alors faire passer les données qu'il posséde dans un algo
 L'example le plus classique est celui du *clustering* où la machine va essayer de séparer les données en groupes.
 
 Example de clustering:
-    -L'image du haut montre plusieurs points
-    -L'image du bas présente les groupes de points découverts après passage des données dans un algorithme de clustering
+
+- L'image du haut montre plusieurs points
+- L'image du bas présente les groupes de points découverts après passage des données dans un algorithme de clustering
 ![kmeans]({{site.baseurl}}/images/kmeans.png)
 
 {% highlight python %}
