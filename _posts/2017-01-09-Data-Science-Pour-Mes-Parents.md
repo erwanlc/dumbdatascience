@@ -1,5 +1,5 @@
 ---
-title: "Data Science expliqué à ma mère"
+title: "Data Science expliqué à mes parents"
 comments: false
 ---
 
@@ -15,7 +15,7 @@ On dit souvent que le Data Scientist est un expert combinant Statistiques, Infor
 
 Les compétences du Data Scientist sont presques toujours résumé à l'aide de ce diagramme:
 
-![My helpful screenshot]({{site.baseurl}}/assets/Data_Science_VD.png)
+![Data Science Diagram]({{site.baseurl}}/assets/Data_Science_VD.png)
 
 En réalité il est difficile de posséder toutes ces capacités chez une personne et on regroupe souvent plusieurs data scientists aux compétences différentes au sein d'une même équipe.
 
@@ -42,10 +42,11 @@ Enfin, la plupart du temps, les data scientist travaillent sur des données priv
 
 Mais d'où proviennent ces données ? Il faut savoir que de nos jours, les entrepries enregistrent presque tous ce qu'elles peuvent. Ainsi, sur la plupart des sites de commerces, il n'est pas rare que chaque action, clic d'un client sur le site web soit enregistré. Les objets possèdent également de plus en plus de capteurs qui enregistre beaucoup d'informations pour pouvoir ensuite les améliorer par exemple (les voitures possèdent de plus en plus de capteurs qui enregistre la position, la température de l'huile, la température du moteur,etc... afin de permettre ensuite aux constructeurs automobile de déterminer les failles les plus courantes).
 
-ex images de données
+Example de données au format CSV
 ![csv]({{site.baseurl}}/images/csv_example.jpg) 
 
-![My helpful screenshot]({{site.baseurl}}/images/example_twitter.jpg)
+Example de données au format JSON (extrait de Twitter)
+![json]({{site.baseurl}}/images/example_twitter.jpg)
 
 ## La préparation des données
 Une fois les données récupérées, il faut alors les préparer avant de pouvoir les utiliser. Les données sont souvent loin d'être parfaites et il manque parfois des informations ou alors les données d'un même projet ne sont pas toutes au même format.
@@ -55,8 +56,23 @@ En plus du travail de nettoyage, le data scientist est parfois ammené à créer
 
 Ce travail de préparation est la plupart du temps réalisé à l'aide de programmation.
 
-# Le machine learning
+# Le Machine Learning
+Très souvent, la dernière étape du processus d'analyse de donnée est de faire ce que l'on apelle du Machine Learning.
+Chercher par soi-même les ce que peuvent nous dire les données serait un travail très complexe et fastidieux, c'est pourquoi le machine learning est utilisé pour que l'ordinateur trouve lui-même une signification aux données ou trouve lui même les relations qui lient les données.
 
+Le machine learning est séparé en deux groupes:
+    - Machine Learning Supervisé
+    - Machine Learning Non Supervisé
+
+## Le Machine Learning Non Supervisé
+Ce type de machine learning est utilisé lorsque que l'on a des données mais que l'on ne sais pas vraiment dans quelle direction aller, lorsque l'on en sait pas ce que l'on cherche.
+Le data scientist va alors faire passer les données qu'il posséde dans un algorithme (une suite d'opération et d'instruction) en espèrant que l'ordinateur va pouvoir trouver des choses intéressantes.
+L'example le plus classique est celui du *clustering* où la machine va essayer de séparer les données en groupes.
+
+Example de clustering:
+    -L'image du haut montre plusieurs points
+    -L'image du bas présente les groupes de points découverts après passage des données dans un algorithme de clustering
+![kmeans]({{site.baseurl}}/images/kmeans.png)
 
 {% highlight python %}
 
