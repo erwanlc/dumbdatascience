@@ -18,15 +18,15 @@ Les compétences du Data Scientist sont presques toujours résumé à l'aide de 
 
 ![Data Science Diagram]({{site.baseurl}}/assets/Data_Science_VD.png)
 
-En réalité il est difficile de posséder toutes ces capacités chez une personne et on regroupe souvent plusieurs data scientists aux compétences différentes pour former une bonne équipe.
+En réalité il est difficile de posséder toutes ces capacités chez une personne et on regroupe souvent plusieurs Data Scientists aux compétences différentes pour former une bonne équipe.
 
 
 ## Pourquoi faire ?
-L'intérêt du data scientist dans une entreprise varie beaucoup.
+L'intérêt du Data Scientist dans une entreprise varie beaucoup.
 
 Dans une entreprise de vente en ligne, il va pouvoir analyser les actions des clients pour essayer de déterminer pourquoi ces derniers achétent ou n'achétent pas tel ou tel objet. Il va également pouvoir essayer de faire des liens entre les achats des différentes personnes pour que le site puisse ensuite proposer des produits personnalisé à chaque client.
 
-Dans une entreprise qui s'occupe de l'acheminement du gaz, le data scientist va pouvoir analyser les données des capteurs qui donnent des informations sur l'état des conduits, les volumes transportés, la vitesse d'acheminement etc... pour ensuite pouvoir antciper d'éventuels accidents et catastrophes.
+Dans une entreprise qui s'occupe de l'acheminement du gaz, le Data Scientist va pouvoir analyser les données des capteurs qui donnent des informations sur l'état des conduits, les volumes transportés, la vitesse d'acheminement etc... pour ensuite pouvoir antciper d'éventuels accidents et catastrophes.
 
 Dans le domaines bancaires il va pouvoir analyser les données des transactions des clients afin de déterminer plus facilement les cas de fraudes ou de vols d'informations clients (si un client Français achète soudainement pour 10 000€ de pizza depuis la Chine, il est possible que ce client ce soit fait voler ses informations bancaires).
 
@@ -34,14 +34,14 @@ Dans le domaines bancaires il va pouvoir analyser les données des transactions 
 # Mais concrètement ?
 
 ## Les données
-Le premier problème auquel est confronté le data scientist est l'obtention des données. Sans elles, il ne peut pas faire grande choses.
+Le premier problème auquel est confronté le Data Scientist est l'obtention des données. Sans elles, il ne peut pas faire grande choses.
 Heureusement, il est de plus en plus facile d'en trouver de nos jours. Beaucoup d'entreprise ou d'institutions publiques en fournissent gratuitement. On appelle cela l'Open Data car il est alors possible de faire ce que l'on veut de ces données.
 
 Il est également possible d'en obtenir via des compétitions organisé par des enterprises mais il est alors souvent interdit d'en faire un usage commercial.
 
 Beaucoup de données peuvent également être récupéré d'internet comme des données de Twitter, Facebook, de site de d'informations ou encore de page internet classique mais il faut au préalable vérifier que le site autorise la récupération de ses pages web. On appelle cela le **Web Scraping**.
 
-Enfin, la plupart du temps, les data scientist travaillent sur des données privées d'entreprise, accumulées au fil du temps.
+Enfin, la plupart du temps, le Data Scientist travaillent sur des données privées d'entreprise, accumulées au fil du temps.
 
 Mais d'où proviennent ces données ? Il faut savoir que de nos jours, les entreprises enregistrent presque tous ce qu'elles peuvent. Ainsi, sur la plupart des sites de e-commerces, il n'est pas rare que chaque action, clic d'un client sur le site web soit enregistré. Les objets possèdent également de plus en plus de capteurs qui enregistre beaucoup d'informations pour pouvoir ensuite les améliorer.(exemple: les voitures possèdent de plus en plus de capteurs qui enregistre la position, la température de l'huile, la température du moteur,etc... afin de permettre ensuite aux constructeurs automobile de déterminer les failles les plus courantes).
 
@@ -50,7 +50,7 @@ Mais d'où proviennent ces données ? Il faut savoir que de nos jours, les entre
 Une fois les données récupérées, il faut alors les préparer avant de pouvoir les utiliser. Les données sont souvent loin d'être parfaites et il manque parfois des informations ou alors les données d'un même projet ne sont pas toutes au même format.
 Il a donc presque toujours un gros travail de nettoyage qui consiste à modifier les données pour qu'elles soient harmonisé et utilisable. 
 
-En plus du travail de nettoyage, le data scientist est parfois ammené à créer de nouvelles données à partir de celles existantes afin de faciliter leurs interprétations. Ces nouvelles données peuvent par exemple être créée en appliquant des formules de calcul sur des données existantes ou encore en séparant une donnée en deux. On appelle cela le **Feature Engineering**
+En plus du travail de nettoyage, le Data Scientist est parfois ammené à créer de nouvelles données à partir de celles existantes afin de faciliter leurs interprétations. Ces nouvelles données peuvent par exemple être créée en appliquant des formules de calcul sur des données existantes ou encore en séparant une donnée en deux. On appelle cela le **Feature Engineering**
 
 
 ## Le Machine Learning
@@ -64,7 +64,7 @@ Le machine learning est séparé en deux groupes:
 
 ### Le Machine Learning Non Supervisé
 Ce type de machine learning est utilisé lorsque que l'on a des données mais que l'on ne sais pas vraiment dans quelle direction aller, lorsque l'on en sait pas ce que l'on cherche.
-Le data scientist va alors faire passer les données qu'il possède dans un algorithme (une suite d'opération et d'instruction) en espèrant que l'ordinateur va pouvoir trouver des choses intéressantes.
+Le Data Scientist va alors faire passer les données qu'il possède dans un algorithme (une suite d'opération et d'instruction) en espèrant que l'ordinateur va pouvoir trouver des choses intéressantes.
 L'example le plus classique est celui du **clustering** où la machine va essayer de séparer les données en groupes.
 
 Example de clustering:
