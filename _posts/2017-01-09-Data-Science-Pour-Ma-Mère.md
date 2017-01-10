@@ -36,16 +36,21 @@ Heureusement, il est de plus en plus facile d'en trouver de nos jours. Beaucoup 
 
 Il est également possible d'en obtenir via des compétitions organisé par des enterprises mais il est alors souvent interdit d'en faire un usage commercial.
 
-Beaucoup de données peuvent également être récupéré d'internet comme des données de Twitter, Facebook, de site de d'informations ou encore de page internet classique mais il faut au préalable vérifier que le site autorise la récupération de ses pages web. On appelle cela le *Web Scraping*
+Beaucoup de données peuvent également être récupéré d'internet comme des données de Twitter, Facebook, de site de d'informations ou encore de page internet classique mais il faut au préalable vérifier que le site autorise la récupération de ses pages web. On appelle cela le *Web Scraping*.
 
 Enfin, la plupart du temps, les data scientist travaillent sur des données privées d'entreprise accumulé au fil du temps.
 
 Mais d'où proviennent ces données ? Il faut savoir que de nos jours, les entrepries enregistrent presque tous ce qu'elles peuvent. Ainsi, sur la plupart des sites de commerces, il n'est pas rare que chaque action, clic d'un client sur le site web soit enregistré. Les objets possèdent également de plus en plus de capteurs qui enregistre beaucoup d'informations pour pouvoir ensuite les améliorer par exemple (les voitures possèdent de plus en plus de capteurs qui enregistre la position, la température de l'huile, la température du moteur,etc... afin de permettre ensuite aux constructeurs automobile de déterminer les failles les plus courantes).
 
-## La préparation des données
-Une fois les données récupérées, il faut alors 
+ex images de données
 
-Les données à récupérér, le bordel netooyage...
+## La préparation des données
+Une fois les données récupérées, il faut alors les préparer avant de pouvoir les utiliser. Les données sont souvent loin d'être parfaites et il manque parfois des informations ou alors les données d'un même projet ne sont pas toutes au même format.
+Il a donc presque toujours un gros travail de nettoyage qui consite à modifier les données pour qu'elles soient harmonisé et utilisable. 
+
+En plus du travail de nettoyage, le data scientist est parfois ammené à créer de nouvelles données à partir de celles existantes afin de faciliter leur interprétation. Ces nouvelles données peuvent par exemple être créée en appliquant des formules de calcul sur des données existantes ou encore en séparant une donnée en deux. On appelle cela le *Feature Engineering*
+
+Ce travail de préparation est la plupart du temps réalisé à l'aide de programmation.
 
 # Le machine learning
 
