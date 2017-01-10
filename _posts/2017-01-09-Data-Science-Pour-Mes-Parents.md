@@ -76,6 +76,10 @@ Example de clustering:
 - L'image du bas présente les groupes de points découverts après passage des données dans un algorithme de clustering
 ![kmeans]({{site.baseurl}}/images/kmeans.png)
 
+## Le Machine Learning Supervisé
+A l'inverse du non supervisé, ce type de machine learning s'utilise lorsque l'on sait ce que l'on cherche.
+
+
 {% highlight python %}
 
 def show():
