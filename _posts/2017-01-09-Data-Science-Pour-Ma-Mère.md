@@ -13,7 +13,7 @@ Le job du Data Scientist et d'explorer des données et informations pour en extr
 On dit souvent que le Data Scientist est un expert combinant Statistiques, Informatique et expertises dans le domaine auquel les données appartiennent.
 
 Les compétences du Data Scientist sont presques toujours résumé à l'aide de ce diagramme:
-![My helpful screenshot]({{ site.url }}/assets/screenshot.jpg)
+![My helpful screenshot]({{ site.url }}/assets/Data_Science_VD.png)
 
 compétence, pourquoi faire etc...
 
