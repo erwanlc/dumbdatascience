@@ -43,6 +43,9 @@ Enfin, la plupart du temps, les data scientist travaillent sur des données priv
 Mais d'où proviennent ces données ? Il faut savoir que de nos jours, les entrepries enregistrent presque tous ce qu'elles peuvent. Ainsi, sur la plupart des sites de commerces, il n'est pas rare que chaque action, clic d'un client sur le site web soit enregistré. Les objets possèdent également de plus en plus de capteurs qui enregistre beaucoup d'informations pour pouvoir ensuite les améliorer par exemple (les voitures possèdent de plus en plus de capteurs qui enregistre la position, la température de l'huile, la température du moteur,etc... afin de permettre ensuite aux constructeurs automobile de déterminer les failles les plus courantes).
 
 ex images de données
+![csv]({{site.baseurl}}/images/csv_example.jpg) 
+
+![My helpful screenshot]({{site.baseurl}}/images/example_twitter.jpg)
 
 ## La préparation des données
 Une fois les données récupérées, il faut alors les préparer avant de pouvoir les utiliser. Les données sont souvent loin d'être parfaites et il manque parfois des informations ou alors les données d'un même projet ne sont pas toutes au même format.
