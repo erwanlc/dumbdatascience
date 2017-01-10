@@ -1,5 +1,5 @@
 ---
-title: "La Data Science expliqué à mes parents"
+title: "La Data Science expliquée à mes parents"
 comments: false
 ---
 
