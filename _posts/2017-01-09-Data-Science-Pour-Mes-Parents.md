@@ -79,28 +79,18 @@ Example de clustering:
 ## Le Machine Learning Supervisé
 A l'inverse du non supervisé, ce type de machine learning s'utilise lorsque l'on sait ce que l'on cherche.
 
+Je vais essayer d'utiliser un example simple: imaginons que nous avons 100 perroquets. Pour chaques perroquets nous avons:
 
-{% highlight python %}
+1. L'age
+2. Le sex
+3. La race
+4. La couleur de la plume arrière gauche
+5. Si oui ou non le perroquet a un/une partenaire
+6. Si oui ou non le perroquet est intelligent
 
-def show():
-  print "test"
+Les points 1 à 5 sont faciles à obtenir mais le point 5 est plus compliqué car il faut faire faire des tests aux perroquets
+Nous allons donc donner à notre algorithme de machine learning juste les données de 1 à 5 en lui disant : à partir de ces points, je veux que tu me trouve le lien avec le point 6. L'algorithme va donc tout faire pour obtenir le point 6 à l'aide des autres. Une fois que la machine aura appris du mieux qu'elle peut comment obtenir ce qu'on lui a demandé d'obtenir, elle va nous retourner une fonction que l'on appelle *modèle* que l'on va pouvoir réutiliser (Le machine learning non supervisé retourne aussi un modèle).
 
-{% endhighlight %}
+Grâce à ce modèle, lorsqu'un nouveau perroquet arrivera, il suffira de rapidement déterminer son age, sex, race, couleur de la plume arrière gauche et si il a un/une partenaire. On donnera ces informations au modèle qui nous dira alors si, d'après ce qu'il a appris, le perroquet est intelligent ou non permettant ainsi un gain de temps important.
 
-```python
-s = "Python syntax highlighting"
-print s
-```
-
-
-{% highlight ruby %}
-
-def show
-  @widget = Widget(params[:id])
-  respond_to do |format|
-    format.html # show.html.erb
-    format.json { render json: @widget }
-  end
-end
-
-{% endhighlight %}
+Le principal problème du machine learning supervisé est qu'il faut avoir des données avec déjà certains résultats. Résultats qui peuvent parfois être compliqué à obtenir.
