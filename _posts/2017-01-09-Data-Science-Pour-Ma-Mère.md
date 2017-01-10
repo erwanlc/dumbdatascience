@@ -15,7 +15,7 @@ On dit souvent que le Data Scientist est un expert combinant Statistiques, Infor
 
 Les compétences du Data Scientist sont presques toujours résumé à l'aide de ce diagramme:
 
-![My helpful screenshot](https://github.com/erwanlc/dumbdatascience/blob/gh-pages/assets/Data_Science_VD.png){:class="img-responsive"}
+![My helpful screenshot](/assets/Data_Science_VD.png)
 
 En réalité il est difficile de posséder toutes ces capacités chez une personne et on regroupe souvent plusieurs data scientists aux compétences différentes au sein d'une même équipe.
 
