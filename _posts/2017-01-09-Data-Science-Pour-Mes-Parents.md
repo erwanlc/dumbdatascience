@@ -10,7 +10,7 @@ Ma mère s'est souvent demandé ce que je faisais en tant que Data Scientist, qu
 
 # Le Data Scientist
 
-## Son rôle:
+## Son rôle
 Le travail du Data Scientist est d'explorer des données et informations pour en extraire de la valeur ou d'autres informations pertinentes.
 On dit souvent que le Data Scientist est un expert combinant statistiques, informatique et expertises dans le domaine auquel les données appartiennent tout en étant bon en création de graphiques et visualisation.
 
