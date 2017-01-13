@@ -1,6 +1,6 @@
 ---
 title: "Data Science for dummies"
-comments: true
+comments: false
 ---
 
 # Introduction
