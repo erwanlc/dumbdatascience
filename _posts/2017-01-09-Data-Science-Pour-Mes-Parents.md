@@ -41,7 +41,7 @@ Le premier problème auquel est confronté le Data Scientist est l'obtention des
 
 <p align="justify">Beaucoup de données peuvent également être récupérées d'internet comme des données de Twitter, Facebook, de site de d'informations ou encore de page internet classique mais il faut au préalable vérifier que le site autorise la récupération de ses pages web. On appelle cela le</p> **Web Scraping**.
 
-Enfin, la plupart du temps, le Data Scientist travaille sur des données privées d'entreprise, accumulées au fil du temps.
+<p align="justify">Enfin, la plupart du temps, le Data Scientist travaille sur des données privées d'entreprise, accumulées au fil du temps.</p>
 
 <p align="justify">Mais d'où proviennent ces données ? Il faut savoir que de nos jours, les entreprises enregistrent presque tout ce qu'elles peuvent. Ainsi, sur la plupart des sites de e-commerces, il n'est pas rare que chaque action, clic d'un client sur le site web soit enregistré. Les objets possèdent également de plus en plus de capteurs qui enregistrent beaucoup d'informations pour pouvoir ensuite les améliorer.(exemple: les voitures possèdent de plus en plus de capteurs qui enregistrent la position, la température de l'huile, la température du moteur,etc... afin de permettre ensuite aux constructeurs automobiles de déterminer les failles les plus courantes).</p>
 
@@ -74,10 +74,10 @@ Exemple de clustering:
 
 ![kmeans]({{site.baseurl}}/images/kmeans.png)
 
-Après le passage de l'algorithme, on se retrouve avec 3 groupes qu'il pourrait être judicieux de traiter séparément.
+<p align="justify">Après le passage de l'algorithme, on se retrouve avec 3 groupes qu'il pourrait être judicieux de traiter séparément.</p>
 
 ### Le Machine Learning Supervisé
-A l'inverse du non supervisé, ce type de machine learning s'utilise lorsque l'on sait ce que l'on cherche.
+<p align="justify">A l'inverse du non supervisé, ce type de machine learning s'utilise lorsque l'on sait ce que l'on cherche.</p>
 
 Je vais essayer d'utiliser un example simple:
 imaginons que nous avons 100 perroquets. Pour chaque perroquet nous avons:
