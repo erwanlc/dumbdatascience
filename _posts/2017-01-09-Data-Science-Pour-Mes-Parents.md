@@ -79,8 +79,8 @@ Après le passage de l'algorithme, on se retrouve avec 3 groupes qu'il pourrait 
 ### Le Machine Learning Supervisé
 A l'inverse du non supervisé, ce type de machine learning s'utilise lorsque l'on sait ce que l'on cherche.
 
-Je vais essayer d'utiliser un example simple: 
-Imaginons que nous avons 100 perroquets. Pour chaque perroquet nous avons:
+Je vais essayer d'utiliser un example simple:
+imaginons que nous avons 100 perroquets. Pour chaque perroquet nous avons:
 
 1. L'age
 2. Le sexe
