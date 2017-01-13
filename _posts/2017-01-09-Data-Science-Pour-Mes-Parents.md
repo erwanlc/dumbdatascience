@@ -43,7 +43,7 @@ Beaucoup de données peuvent également être récupérées d'internet comme des
 
 Enfin, la plupart du temps, le Data Scientist travaille sur des données privées d'entreprise, accumulées au fil du temps.
 
-Mais d'où proviennent ces données ? Il faut savoir que de nos jours, les entreprises enregistrent presque tout ce qu'elles peuvent. Ainsi, sur la plupart des sites de e-commerces, il n'est pas rare que chaque action, clic d'un client sur le site web soit enregistré. Les objets possèdent également de plus en plus de capteurs qui enregistre beaucoup d'informations pour pouvoir ensuite les améliorer.(exemple: les voitures possèdent de plus en plus de capteurs qui enregistrent la position, la température de l'huile, la température du moteur,etc... afin de permettre ensuite aux constructeurs automobiles de déterminer les failles les plus courantes).
+Mais d'où proviennent ces données ? Il faut savoir que de nos jours, les entreprises enregistrent presque tout ce qu'elles peuvent. Ainsi, sur la plupart des sites de e-commerces, il n'est pas rare que chaque action, clic d'un client sur le site web soit enregistré. Les objets possèdent également de plus en plus de capteurs qui enregistrent beaucoup d'informations pour pouvoir ensuite les améliorer.(exemple: les voitures possèdent de plus en plus de capteurs qui enregistrent la position, la température de l'huile, la température du moteur,etc... afin de permettre ensuite aux constructeurs automobiles de déterminer les failles les plus courantes).
 
 
 ## La préparation des données
