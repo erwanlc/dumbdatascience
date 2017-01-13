@@ -43,65 +43,63 @@ A lot of data can also be extracted from the web like for Twitter, Facebook, new
 
 But most of the time, the Data Scientist works on private entreprise data which are stored over time.
 
-But where these data come from ? Nowadays
-Mais d'où proviennent ces données ? Il faut savoir que de nos jours, les entreprises enregistrent presque tout ce qu'elles peuvent. Ainsi, sur la plupart des sites de e-commerces, il n'est pas rare que chaque action, clic d'un client sur le site web soit enregistré. Les objets possèdent également de plus en plus de capteurs qui enregistre beaucoup d'informations pour pouvoir ensuite les améliorer.(exemple: les voitures possèdent de plus en plus de capteurs qui enregistrent la position, la température de l'huile, la température du moteur,etc... afin de permettre ensuite aux constructeurs automobiles de déterminer les failles les plus courantes).
+But where these data come from ? Nowadays, companies keep records of almost everything. For example, on most of the e-commerce website, it is common that every action, clic of a customer on the website is saved. Objects tend also to have more and more sensors which record a lot of information to help future improvement (example: new cars are full of sensors which record position, temparature of the ol, temperature of the engine, etc... to allow then the automobile constructors to determine most common issues).
 
 
-## La préparation des données
-Une fois les données récupérées, il faut alors les préparer avant de pouvoir les utiliser. Les données sont souvent loin d'être parfaites et il manque parfois des informations ou alors les données d'un même projet ne sont pas toutes au même format.
-Il a donc presque toujours un gros travail de nettoyage qui consiste à modifier les données pour qu'elles soient harmonisées et utilisables. 
+## Data pre-processing
+Once the data in our possession, they must be prepared before being able to use them. Raw data are far from being perfet and it often misses some information or the format vary.
+That is why there is almost always a important work of data cleaning which consist in the modificattion of the data so they can be harmonized and usable.
 
-En plus du travail de nettoyage, le Data Scientist est parfois ammené à créer de nouvelles données à partir de celles existantes afin de faciliter leurs interprétations. Ces nouvelles données peuvent par exemple être créée en appliquant des formules de calcul sur des données existantes ou encore en séparant une donnée en deux. On appelle cela le **Feature Engineering**
+In addition of this cleaning process, the Data Scientist is sometimes forced to create new data from the existing ones in order to facilitate their interpretations. These new data can be created by the use of a calculation formula or even by splitting a variable intwo for example. We call this the **Feature Engineering**.
 
 
-## Le Machine Learning
-Très souvent, la dernière étape du processus d'analyse de données est de faire ce que l'on appelle du Machine Learning.
-Chercher par soi-même ce que peuvent nous dire les données serait un travail très complexe et fastidieux, c'est pourquoi le machine learning est utilisé pour que l'ordinateur trouve lui-même une signification aux données ou trouve lui même les relations qui lient les données.
+## The Machine Learning
+The final step of the data analysis process is very often a processus called Machine Learning.
+Looking by ourselves what the data can tell us can be a very complex and cumbersome work, this is why the machine learning is used so that the computer find by itself a signification to the data or find itself what tie the data.
 
-Le machine learning est séparé en deux groupes:
+The machine learning is separated in two groups:
 
-- Machine Learning Supervisé
-- Machine Learning Non Supervisé
+- Supervised Machine Learning
+- Unsupervised Machine Learning
 
-### Le Machine Learning Non Supervisé
-Ce type de machine learning est utilisé lorsque que l'on a des données mais que l'on ne sait pas vraiment dans quelle direction aller, lorsque l'on en sait pas ce que l'on cherche.
-Le Data Scientist va alors faire passer les données qu'il possède dans un algorithme (une suite d'opération et d'instruction) en espèrant que l'ordinateur va pouvoir trouver des choses intéressantes.
-L'exemple le plus classique est celui du **clustering** où la machine va essayer de séparer les données en groupes.
+### The Unsupervised Machine Learning
+This kind of machine learning is used when we have data but we don't really know what to look for, in which direction we want to go.
+The Data Scientist is going then to put the data he have through an algorithm ( a suite of operation and instruction) hoping that the computer is going to find some interesting features.
+The most common example is the **clustering** where the machine is going to split the data in groups
 
-Exemple de clustering:
+Example of clustering:
 
-- L'image du haut montre plusieurs points
-- L'image du bas présente les groupes de points découverts après passage des données dans un algorithme de clustering
+- The image on top show various points
+- The image on bottom show the groups of points discovered after the use of the clustering algorithm
 
 ![kmeans]({{site.baseurl}}/images/kmeans.png)
 
-Après le passage de l'algorithme, on se retrouve avec 3 groupes qu'il pourrait être judicieux de traiter séparément.
+After the use of the algorithm, we have 3 groups which could be interesting to handle separately.
 
+### The Supervised Machine Learning
+At the opposite of the unsupervised, this type of machine learning is used when we know what we are looking for.
 
-### Le Machine Learning Supervisé
-A l'inverse du non supervisé, ce type de machine learning s'utilise lorsque l'on sait ce que l'on cherche.
+I will try to use a simple example:
+Lets imagine that we have 100 parrots. For each of the parrot we have:
 
-Je vais essayer d'utiliser un example simple: 
-Imaginons que nous avons 100 perroquets. Pour chaque perroquet nous avons:
+1. The age
+2. The gender
+3. The race
+4. The color of the bottom left feather
+5. If the parrot have a partner
+6. If the parrot is smart
 
-1. L'age
-2. Le sexe
-3. La race
-4. La couleur de la plume arrière gauche
-5. Si oui ou non le perroquet a un/une partenaire
-6. Si oui ou non le perroquet est intelligent
+The points 1 to 5 can be obtain easily but the point 6 is more complicated because you need to make some test on the parrots.
+So we are going to give to our machine learning algorithm just the data from 1 to 5 telling it: with the variables, I want you to find the link with the point 6. The algorithm is going to do its best to obtain the variable 6 thanks to the others. Once that the computer will have learn the best way to obtain what we asked, it will return a function called **model** that we will be able to reuse (N.B. : the unsupervised machine learning also return a model).
 
-Les points 1 à 5 sont faciles à obtenir mais le point 6 est plus compliqué car il faut faire faire des tests aux perroquets.
-Nous allons donc donner à notre algorithme de machine learning juste les données de 1 à 5 en lui disant : à partir de ces points, je veux que tu me trouves le lien avec le point 6. L'algorithme va donc tout faire pour obtenir le point 6 à l'aide des autres. Une fois que la machine aura appris du mieux qu'elle peut comment obtenir ce qu'on lui a demandé d'obtenir, elle va nous retourner une fonction que l'on appelle **modèle** que l'on va pouvoir réutiliser (N.B. : le machine learning non supervisé retourne aussi un modèle).
-
-Grâce à ce modèle, lorsqu'un nouveau perroquet arrivera, il suffira de rapidement déterminer son âge, sexe, race, couleur de la plume arrière gauche et si il a un/une partenaire. On donnera ces informations au modèle qui nous dira alors si, d'après ce qu'il a appris, le perroquet est intelligent ou non permettant ainsi un gain de temps important.
+Thanks to this model, when a new parrots will come, we will just need to detect its age, sex, race, color of the bottom left feather and if it has a partner or not. We will then give these information to the model which will tell us then if, from what it learned before, the parrots is smart or not allowing us to earn some precious time.
 
 ### Complications
-Le principal problème du machine learning supervisé est qu'il faut avoir des données avec déjà certains résultats. Résultats qui peuvent parfois être compliqués à obtenir.
-De plus, il n'est pas toujours possible de prédire ce que l'on veut. Il est fort possible que pour notre exemple des perroquets, l'ordinateur n'arrive pas a trouver si le perroquet est intelligent en fonction des autres informations et dans ce cas il faut éventuellement trouver des données supplémentaires, supprimer des données non pertinentes ou (re)faire du feature engineering.
+The principal issue of the supervised machine learning is that you need to have some data with already some results you want. These results can be sometimes difficult to find.
+Moreover, it is not always possible to predict what we want, there is a high probability that for our parrots example, the computer won't be able to find if the parrot is smart or not thanks to the other information we have and in this case, we will probably need to find some additional data, delete some useless variables or (re)make some feature engineering.re)faire du feature engineering.
+
 
 # Conclusion
-Le travail du Data Scientist est en général cyclique. La plupart du temps il va récupérer des données, les traiter, et essayer de les exploiter grâce au machine learning par exemple mais si il n'obtient pas ce qu'il veut, il va recommencer en essayant de trouver de nouvelles informations qu'il va falloir retraiter puis re-exploiter.
+The work of the Data Scientist is in general cyclic. Most of the time, he will get some data, process them and try to use them thanks to machine learning for example but if he can't get what he want, he is going to restart with some new data which he will need to reprocess and reuse.
 
-C'est un travail qui peut sembler répétitif mais il est en réalité très varié car les données ne sont jamais les mêmes et il faut toujours s'adapter pour trouver le meilleur angle d'attaque. De plus, c'est toujours très gratifiant de découvrir ce qu'elles cachent et de réussir à construire un modèle qui permet de prédire ce que l'on veut.
-Il est à noter qu'en général, le Data Scientist ne crée pas les algorithmes de machine learning qui servent entre autre à la prediction mais il les connaît, sait comment ils fonctionnent et se tient au courant des innovations pour choisir et adapter celui qui sera le plus performant pour son problème.
+It is a work which can seems repetitive but it is very diverse in reality because the data are never the same and it is always mandatory to adapt ourselves to find the best way to handle them. Moreover it is always very rewarding to discover what the data hide and to succeed in the creation of a good model which predict what we want. It should be noted that in general, the Data Scientist doesn't create the machine learning algorithm which are often use for prediction but he knows how they work and have to keep himself up to date of the innovation to find and adapt the one which will be the more performant for its problem.
