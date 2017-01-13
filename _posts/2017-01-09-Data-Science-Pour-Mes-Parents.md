@@ -2,7 +2,7 @@
 title: "La Data Science expliquée à mes parents"
 comments: false
 ---
-<p align="justify">
+
 # Introduction
 
 Ma mère s'est souvent demandé ce que je faisais en tant que Data Scientist, quelles étaient mes tâches quotidiennes, etc... Je vais donc essayer de donner ma vision du travail que je fais.
@@ -11,35 +11,35 @@ Ma mère s'est souvent demandé ce que je faisais en tant que Data Scientist, qu
 # Le Data Scientist
 
 ## Son rôle
-Le travail du Data Scientist est d'explorer des données et informations pour en extraire de la valeur ou d'autres informations pertinentes.
-On dit souvent que le Data Scientist est un expert combinant statistiques, informatique et expertises dans le domaine auquel les données appartiennent tout en étant bon en création de graphiques et visualisation.
+<p align="justify">Le travail du Data Scientist est d'explorer des données et informations pour en extraire de la valeur ou d'autres informations pertinentes.</p>
+<p align="justify">On dit souvent que le Data Scientist est un expert combinant statistiques, informatique et expertises dans le domaine auquel les données appartiennent tout en étant bon en création de graphiques et visualisation.</p>
 
 Les compétences du Data Scientist sont presque toujours résumées à l'aide de ce diagramme:
 
 ![Data Science Diagram]({{site.baseurl}}/assets/Data_Science_VD.png)
 
-En réalité il est difficile de posséder toutes ces capacités chez une personne et on regroupe souvent plusieurs Data Scientists aux compétences différentes pour former une bonne équipe.
+<p align="justify">En réalité il est difficile de posséder toutes ces capacités chez une personne et on regroupe souvent plusieurs Data Scientists aux compétences différentes pour former une bonne équipe.</p>
 
 
 ## Pourquoi faire ?
 L'intérêt du Data Scientist dans une entreprise varie beaucoup.
 
-Dans une entreprise de vente en ligne, il va pouvoir analyser les actions des clients pour essayer de déterminer pourquoi ces derniers achétent ou n'achétent pas tel ou tel objet. Il va également pouvoir essayer de faire des liens entre les achats des différentes personnes pour que le site puisse ensuite proposer des produits personnalisé à chaque client.
+<p align="justify">Dans une entreprise de vente en ligne, il va pouvoir analyser les actions des clients pour essayer de déterminer pourquoi ces derniers achétent ou n'achétent pas tel ou tel objet. Il va également pouvoir essayer de faire des liens entre les achats des différentes personnes pour que le site puisse ensuite proposer des produits personnalisé à chaque client.</p>
 
-Dans une entreprise qui s'occupe de l'acheminement du gaz, le Data Scientist va pouvoir analyser les données des capteurs qui donnent des informations sur l'état des conduits, les volumes transportés, la vitesse d'acheminement etc... pour ensuite pouvoir antciper d'éventuels accidents et catastrophes.
+<p align="justify">Dans une entreprise qui s'occupe de l'acheminement du gaz, le Data Scientist va pouvoir analyser les données des capteurs qui donnent des informations sur l'état des conduits, les volumes transportés, la vitesse d'acheminement etc... pour ensuite pouvoir antciper d'éventuels accidents et catastrophes.</p>
 
-Dans le domaine bancaire il va pouvoir analyser les données des transactions des clients afin de déterminer plus facilement les cas de fraudes ou de vols d'informations clients (si un client Français achète soudainement pour 10 000€ de pizza depuis la Chine, il est possible que ce client ce soit fait voler ses informations bancaires).
+<p align="justify">Dans le domaine bancaire il va pouvoir analyser les données des transactions des clients afin de déterminer plus facilement les cas de fraudes ou de vols d'informations clients (si un client Français achète soudainement pour 10 000€ de pizza depuis la Chine, il est possible que ce client ce soit fait voler ses informations bancaires).
 </p>
 
 # Mais concrètement ?
 
 ## Les données
 Le premier problème auquel est confronté le Data Scientist est l'obtention des données. Sans elles, il ne peut pas faire grand chose.
-Heureusement, il est de plus en plus facile d'en trouver de nos jours. Beaucoup d'entreprise ou d'institutions publiques en fournissent gratuitement. On appelle cela l'Open Data car il est alors possible de faire ce que l'on veut de ces données.
+<p align="justify">Heureusement, il est de plus en plus facile d'en trouver de nos jours. Beaucoup d'entreprise ou d'institutions publiques en fournissent gratuitement. On appelle cela l'Open Data car il est alors possible de faire ce que l'on veut de ces données.</p>
 
-Il est également possible d'en obtenir via des compétitions organisées par des entreprises mais il est alors souvent interdit d'en faire un usage commercial.
+<p align="justify">Il est également possible d'en obtenir via des compétitions organisées par des entreprises mais il est alors souvent interdit d'en faire un usage commercial.</p>
 
-Beaucoup de données peuvent également être récupérées d'internet comme des données de Twitter, Facebook, de site de d'informations ou encore de page internet classique mais il faut au préalable vérifier que le site autorise la récupération de ses pages web. On appelle cela le **Web Scraping**.
+<p align="justify">Beaucoup de données peuvent également être récupérées d'internet comme des données de Twitter, Facebook, de site de d'informations ou encore de page internet classique mais il faut au préalable vérifier que le site autorise la récupération de ses pages web. On appelle cela le **Web Scraping**.</p>
 
 Enfin, la plupart du temps, le Data Scientist travaille sur des données privées d'entreprise, accumulées au fil du temps.
 
