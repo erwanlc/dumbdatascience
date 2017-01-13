@@ -23,27 +23,27 @@ In reality, it is difficult to possess all these capacities in just one person a
 
 ## But why ?
 ![But why gif]({{site.baseurl}}/images/giphy.gif)
-L'intérêt du Data Scientist dans une entreprise varie beaucoup.
 
-Dans une entreprise de vente en ligne, il va pouvoir analyser les actions des clients pour essayer de déterminer pourquoi ces derniers achétent ou n'achétent pas tel ou tel objet. Il va également pouvoir essayer de faire des liens entre les achats des différentes personnes pour que le site puisse ensuite proposer des produits personnalisé à chaque client.
+The need for a Data Scientist change a lot according to the business of the company.
 
-Dans une entreprise qui s'occupe de l'acheminement du gaz, le Data Scientist va pouvoir analyser les données des capteurs qui donnent des informations sur l'état des conduits, les volumes transportés, la vitesse d'acheminement etc... pour ensuite pouvoir antciper d'éventuels accidents et catastrophes.
+In a e-commerce company, he will be able to analyze the customers actions to determine why they buy or don't buy a particular object. He is also going to discover the links between the purchase of the various customers so that the website is then able to offer some personalized products to each customers.
 
-Dans le domaine bancaire il va pouvoir analyser les données des transactions des clients afin de déterminer plus facilement les cas de fraudes ou de vols d'informations clients (si un client Français achète soudainement pour 10 000€ de pizza depuis la Chine, il est possible que ce client ce soit fait voler ses informations bancaires).
+In a gaz transmission company, the Data Scientist will be able to analyze the results of some sensors which records information about the state of the pipeline, the volume carried, the speed of transmission, etc... for then anticipate eventual accidents.
 
+In the banking domain, he will be able to anlyze the data from the transaction of the customers to determine more easily frauds or personnal customers information (if a French customer suddenly buy for 10 000€ of pizza in a Shangaï restaurant, it is highly possible that the banking information of this customer have been robbed).
 
-# Mais concrètement ?
+# In practice
 
-## Les données
-Le premier problème auquel est confronté le Data Scientist est l'obtention des données. Sans elles, il ne peut pas faire grand chose.
-Heureusement, il est de plus en plus facile d'en trouver de nos jours. Beaucoup d'entreprise ou d'institutions publiques en fournissent gratuitement. On appelle cela l'Open Data car il est alors possible de faire ce que l'on veut de ces données.
+## The data
+The main issue for the Data Scientist is to obtain the data. Without them, he can't do anything. Hopefully, it is more and more easy to find them nowadays. A lot of companies or public institutions give theirs freely. It is called Open Data because it is then possible to do whatever you want from these data.
 
-Il est également possible d'en obtenir via des compétitions organisées par des entreprises mais il est alors souvent interdit d'en faire un usage commercial.
+It is also possible to obtain them thanks to competitions often organized by companies mais if it often forbidden to use them for commercial purpose.
 
-Beaucoup de données peuvent également être récupérées d'internet comme des données de Twitter, Facebook, de site de d'informations ou encore de page internet classique mais il faut au préalable vérifier que le site autorise la récupération de ses pages web. On appelle cela le **Web Scraping**.
+A lot of data can also be extracted from the web like for Twitter, Facebook, news website or classical web pages mais it is mandatory to verify that the websites allow the extraction of their webpage. This technic is called **Web Scraping**.
 
-Enfin, la plupart du temps, le Data Scientist travaille sur des données privées d'entreprise, accumulées au fil du temps.
+But most of the time, the Data Scientist works on private entreprise data which are stored over time.
 
+But where these data come from ? Nowadays
 Mais d'où proviennent ces données ? Il faut savoir que de nos jours, les entreprises enregistrent presque tout ce qu'elles peuvent. Ainsi, sur la plupart des sites de e-commerces, il n'est pas rare que chaque action, clic d'un client sur le site web soit enregistré. Les objets possèdent également de plus en plus de capteurs qui enregistre beaucoup d'informations pour pouvoir ensuite les améliorer.(exemple: les voitures possèdent de plus en plus de capteurs qui enregistrent la position, la température de l'huile, la température du moteur,etc... afin de permettre ensuite aux constructeurs automobiles de déterminer les failles les plus courantes).
 
 
