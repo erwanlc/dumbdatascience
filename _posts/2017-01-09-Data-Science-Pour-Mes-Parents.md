@@ -76,7 +76,6 @@ Exemple de clustering:
 
 Après le passage de l'algorithme, on se retrouve avec 3 groupes qu'il pourrait être judicieux de traiter séparément.
 
-
 ### Le Machine Learning Supervisé
 A l'inverse du non supervisé, ce type de machine learning s'utilise lorsque l'on sait ce que l'on cherche.
 
@@ -98,6 +97,7 @@ Grâce à ce modèle, lorsqu'un nouveau perroquet arrivera, il suffira de rapide
 ### Complications
 Le principal problème du machine learning supervisé est qu'il faut avoir des données avec déjà certains résultats. Résultats qui peuvent parfois être compliqués à obtenir.
 De plus, il n'est pas toujours possible de prédire ce que l'on veut. Il est fort possible que pour notre exemple des perroquets, l'ordinateur n'arrive pas a trouver si le perroquet est intelligent en fonction des autres informations et dans ce cas il faut éventuellement trouver des données supplémentaires, supprimer des données non pertinentes ou (re)faire du feature engineering.
+
 
 # Conclusion
 Le travail du Data Scientist est en général cyclique. La plupart du temps il va récupérer des données, les traiter, et essayer de les exploiter grâce au machine learning par exemple mais si il n'obtient pas ce qu'il veut, il va recommencer en essayant de trouver de nouvelles informations qu'il va falloir retraiter puis re-exploiter.
