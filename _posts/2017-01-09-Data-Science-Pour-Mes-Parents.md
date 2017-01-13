@@ -50,7 +50,7 @@ Mais d'où proviennent ces données ? Il faut savoir que de nos jours, les entre
 Une fois les données récupérées, il faut alors les préparer avant de pouvoir les utiliser. Les données sont souvent loin d'être parfaites et il manque parfois des informations ou alors les données d'un même projet ne sont pas toutes au même format.
 Il a donc presque toujours un gros travail de nettoyage qui consiste à modifier les données pour qu'elles soient harmonisées et utilisables. 
 
-En plus du travail de nettoyage, le Data Scientist est parfois ammené à créer de nouvelles données à partir de celles existantes afin de faciliter leurs interprétations. Ces nouvelles données peuvent par exemple être créée en appliquant des formules de calcul sur des données existantes ou encore en séparant une donnée en deux. On appelle cela le **Feature Engineering**
+En plus du travail de nettoyage, le Data Scientist est parfois ammené à créer de nouvelles données à partir de celles existantes afin de faciliter leurs interprétations. Ces nouvelles données peuvent par exemple être créée en appliquant des formules de calcul sur des données existantes ou encore en séparant une donnée en deux. On appelle cela le **Feature Engineering**.
 
 
 ## Le Machine Learning
