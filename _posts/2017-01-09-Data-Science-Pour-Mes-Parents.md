@@ -11,8 +11,8 @@ Ma mère s'est souvent demandé ce que je faisais en tant que Data Scientist, qu
 # Le Data Scientist
 
 ## Son rôle
-->Le travail du Data Scientist est d'explorer des données et informations pour en extraire de la valeur ou d'autres informations pertinentes.
-On dit souvent que le Data Scientist est un expert combinant statistiques, informatique et expertises dans le domaine auquel les données appartiennent tout en étant bon en création de graphiques et visualisation.<-
+Le travail du Data Scientist est d'explorer des données et informations pour en extraire de la valeur ou d'autres informations pertinentes.
+On dit souvent que le Data Scientist est un expert combinant statistiques, informatique et expertises dans le domaine auquel les données appartiennent tout en étant bon en création de graphiques et visualisation.
 
 Les compétences du Data Scientist sont presque toujours résumées à l'aide de ce diagramme:
 
@@ -24,7 +24,7 @@ En réalité il est difficile de posséder toutes ces capacités chez une person
 ## Pourquoi faire ?
 L'intérêt du Data Scientist dans une entreprise varie beaucoup.
 
-Dans une entreprise de vente en ligne, il va pouvoir analyser les actions des clients pour essayer de déterminer pourquoi ces derniers achétent ou n'achétent pas tel ou tel objet. Il va également pouvoir essayer de faire des liens entre les achats des différentes personnes pour que le site puisse ensuite proposer des produits personnalisé à chaque client.
+->Dans une entreprise de vente en ligne, il va pouvoir analyser les actions des clients pour essayer de déterminer pourquoi ces derniers achétent ou n'achétent pas tel ou tel objet. Il va également pouvoir essayer de faire des liens entre les achats des différentes personnes pour que le site puisse ensuite proposer des produits personnalisé à chaque client.<-
 
 Dans une entreprise qui s'occupe de l'acheminement du gaz, le Data Scientist va pouvoir analyser les données des capteurs qui donnent des informations sur l'état des conduits, les volumes transportés, la vitesse d'acheminement etc... pour ensuite pouvoir antciper d'éventuels accidents et catastrophes.
 
