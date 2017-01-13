@@ -11,7 +11,7 @@ My mother often asked me what I did as Data Scientist, what were my everyday tas
 # The Data Scientist
 
 ## His duty
-The job of the Data Scientist is to exploer data and informations to extract from them some value or any other interesting patterns.
+The job of the Data Scientist is to explore data and informations to extract from them some value or any other interesting patterns.
 It is often said that the Data Scientist is an expert which combine statistics, IT and business expertise being also good in visualization and graphics creation.
 
 The skills of the Data Scientist are often summarize with this diagram:
@@ -37,7 +37,7 @@ In the banking domain, he will be able to anlyze the data from the transaction o
 ## The data
 The main issue for the Data Scientist is to obtain the data. Without them, he can't do anything. Hopefully, it is more and more easy to find them nowadays. A lot of companies or public institutions give theirs freely. It is called Open Data because it is then possible to do whatever you want from these data.
 
-It is also possible to obtain them thanks to competitions often organized by companies mais if it often forbidden to use them for commercial purpose.
+It is also possible to obtain them thanks to competitions often organized by companies but if is often forbidden to use them for commercial purpose.
 
 A lot of data can also be extracted from the web like for Twitter, Facebook, news website or classical web pages mais it is mandatory to verify that the websites allow the extraction of their webpage. This technic is called **Web Scraping**.
 
@@ -96,7 +96,7 @@ Thanks to this model, when a new parrots will come, we will just need to detect 
 
 ### Complications
 The principal issue of the supervised machine learning is that you need to have some data with already some results you want. These results can be sometimes difficult to find.
-Moreover, it is not always possible to predict what we want, there is a high probability that for our parrots example, the computer won't be able to find if the parrot is smart or not thanks to the other information we have and in this case, we will probably need to find some additional data, delete some useless variables or (re)make some feature engineering.re)faire du feature engineering.
+Moreover, it is not always possible to predict what we want, there is a high probability that for our parrots example, the computer won't be able to find if the parrot is smart or not thanks to the other information we have and in this case, we will probably need to find some additional data, delete some useless variables or (re)make some feature engineering.
 
 
 # Conclusion
