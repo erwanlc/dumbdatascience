@@ -22,16 +22,15 @@ En réalité il est difficile de posséder toutes ces capacités chez une person
 
 
 ## Pourquoi faire ?
+<p align="justify">
 L'intérêt du Data Scientist dans une entreprise varie beaucoup.
 
-<p align="justify">
 Dans une entreprise de vente en ligne, il va pouvoir analyser les actions des clients pour essayer de déterminer pourquoi ces derniers achétent ou n'achétent pas tel ou tel objet. Il va également pouvoir essayer de faire des liens entre les achats des différentes personnes pour que le site puisse ensuite proposer des produits personnalisé à chaque client.
-</p>
 
 Dans une entreprise qui s'occupe de l'acheminement du gaz, le Data Scientist va pouvoir analyser les données des capteurs qui donnent des informations sur l'état des conduits, les volumes transportés, la vitesse d'acheminement etc... pour ensuite pouvoir antciper d'éventuels accidents et catastrophes.
 
 Dans le domaine bancaire il va pouvoir analyser les données des transactions des clients afin de déterminer plus facilement les cas de fraudes ou de vols d'informations clients (si un client Français achète soudainement pour 10 000€ de pizza depuis la Chine, il est possible que ce client ce soit fait voler ses informations bancaires).
-
+</p>
 
 # Mais concrètement ?
 
