@@ -11,17 +11,18 @@ My mother often asked me what I did as Data Scientist, what were my everyday tas
 # The Data Scientist
 
 ## His duty
-Le travail du Data Scientist est d'explorer des données et informations pour en extraire de la valeur ou d'autres informations pertinentes.
-On dit souvent que le Data Scientist est un expert combinant statistiques, informatique et expertises dans le domaine auquel les données appartiennent tout en étant bon en création de graphiques et visualisation.
+The job of the Data Scientist is to exploer data and informations to extract from them some value or any other interesting patterns.
+It is often said that the Data Scientist is an expert which combine statistics, IT and business expertise being also good in visualization and graphics creation.
 
-Les compétences du Data Scientist sont presque toujours résumées à l'aide de ce diagramme:
+The skills of the Data Scientist are often summarize with this diagram:
 
 ![Data Science Diagram]({{site.baseurl}}/assets/Data_Science_VD.png)
 
-En réalité il est difficile de posséder toutes ces capacités chez une personne et on regroupe souvent plusieurs Data Scientists aux compétences différentes pour former une bonne équipe.
+In reality, it is difficult to possess all these capacities in just one person and most of the time, we regroupe various Data Scientists with individual skills to create a team.
 
 
-## Pourquoi faire ?
+## But why ?
+![But why gif]({{site.baseurl}}/images/giphy.gif)
 L'intérêt du Data Scientist dans une entreprise varie beaucoup.
 
 Dans une entreprise de vente en ligne, il va pouvoir analyser les actions des clients pour essayer de déterminer pourquoi ces derniers achétent ou n'achétent pas tel ou tel objet. Il va également pouvoir essayer de faire des liens entre les achats des différentes personnes pour que le site puisse ensuite proposer des produits personnalisé à chaque client.
