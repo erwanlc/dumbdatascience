@@ -39,23 +39,23 @@ Le premier problème auquel est confronté le Data Scientist est l'obtention des
 
 <p align="justify">Il est également possible d'en obtenir via des compétitions organisées par des entreprises mais il est alors souvent interdit d'en faire un usage commercial.</p>
 
-<p align="justify">Beaucoup de données peuvent également être récupérées d'internet comme des données de Twitter, Facebook, de site de d'informations ou encore de page internet classique mais il faut au préalable vérifier que le site autorise la récupération de ses pages web. On appelle cela le **Web Scraping**.</p>
+<p align="justify">Beaucoup de données peuvent également être récupérées d'internet comme des données de Twitter, Facebook, de site de d'informations ou encore de page internet classique mais il faut au préalable vérifier que le site autorise la récupération de ses pages web. On appelle cela le</p> **Web Scraping**.
 
 Enfin, la plupart du temps, le Data Scientist travaille sur des données privées d'entreprise, accumulées au fil du temps.
 
-Mais d'où proviennent ces données ? Il faut savoir que de nos jours, les entreprises enregistrent presque tout ce qu'elles peuvent. Ainsi, sur la plupart des sites de e-commerces, il n'est pas rare que chaque action, clic d'un client sur le site web soit enregistré. Les objets possèdent également de plus en plus de capteurs qui enregistrent beaucoup d'informations pour pouvoir ensuite les améliorer.(exemple: les voitures possèdent de plus en plus de capteurs qui enregistrent la position, la température de l'huile, la température du moteur,etc... afin de permettre ensuite aux constructeurs automobiles de déterminer les failles les plus courantes).
+<p align="justify">Mais d'où proviennent ces données ? Il faut savoir que de nos jours, les entreprises enregistrent presque tout ce qu'elles peuvent. Ainsi, sur la plupart des sites de e-commerces, il n'est pas rare que chaque action, clic d'un client sur le site web soit enregistré. Les objets possèdent également de plus en plus de capteurs qui enregistrent beaucoup d'informations pour pouvoir ensuite les améliorer.(exemple: les voitures possèdent de plus en plus de capteurs qui enregistrent la position, la température de l'huile, la température du moteur,etc... afin de permettre ensuite aux constructeurs automobiles de déterminer les failles les plus courantes).</p>
 
 
 ## La préparation des données
-Une fois les données récupérées, il faut alors les préparer avant de pouvoir les utiliser. Les données sont souvent loin d'être parfaites et il manque parfois des informations ou alors les données d'un même projet ne sont pas toutes au même format.
-Il a donc presque toujours un gros travail de nettoyage qui consiste à modifier les données pour qu'elles soient harmonisées et utilisables. 
+<p align="justify">Une fois les données récupérées, il faut alors les préparer avant de pouvoir les utiliser. Les données sont souvent loin d'être parfaites et il manque parfois des informations ou alors les données d'un même projet ne sont pas toutes au même format.</p>
+<p align="justify">Il a donc presque toujours un gros travail de nettoyage qui consiste à modifier les données pour qu'elles soient harmonisées et utilisables. </p>
 
-En plus du travail de nettoyage, le Data Scientist est parfois ammené à créer de nouvelles données à partir de celles existantes afin de faciliter leurs interprétations. Ces nouvelles données peuvent par exemple être créée en appliquant des formules de calcul sur des données existantes ou encore en séparant une donnée en deux. On appelle cela le **Feature Engineering**.
+<p align="justify">En plus du travail de nettoyage, le Data Scientist est parfois ammené à créer de nouvelles données à partir de celles existantes afin de faciliter leurs interprétations. Ces nouvelles données peuvent par exemple être créée en appliquant des formules de calcul sur des données existantes ou encore en séparant une donnée en deux. On appelle cela le</p> **Feature Engineering**.
 
 
 ## Le Machine Learning
-Très souvent, la dernière étape du processus d'analyse de données est de faire ce que l'on appelle du Machine Learning.
-Chercher par soi-même ce que peuvent nous dire les données serait un travail très complexe et fastidieux, c'est pourquoi le machine learning est utilisé pour que l'ordinateur trouve lui-même une signification aux données ou trouve lui même les relations qui lient les données.
+<p align="justify">Très souvent, la dernière étape du processus d'analyse de données est de faire ce que l'on appelle du Machine Learning.</p>
+<p align="justify">Chercher par soi-même ce que peuvent nous dire les données serait un travail très complexe et fastidieux, c'est pourquoi le machine learning est utilisé pour que l'ordinateur trouve lui-même une signification aux données ou trouve lui même les relations qui lient les données.</p>
 
 Le machine learning est séparé en deux groupes:
 
@@ -63,8 +63,8 @@ Le machine learning est séparé en deux groupes:
 - Machine Learning Non Supervisé
 
 ### Le Machine Learning Non Supervisé
-Ce type de machine learning est utilisé lorsque que l'on a des données mais que l'on ne sait pas vraiment dans quelle direction aller, lorsque l'on en sait pas ce que l'on cherche.
-Le Data Scientist va alors faire passer les données qu'il possède dans un algorithme (une suite d'opération et d'instruction) en espèrant que l'ordinateur va pouvoir trouver des choses intéressantes.
+<p align="justify">Ce type de machine learning est utilisé lorsque que l'on a des données mais que l'on ne sait pas vraiment dans quelle direction aller, lorsque l'on en sait pas ce que l'on cherche.</p>
+<p align="justify">Le Data Scientist va alors faire passer les données qu'il possède dans un algorithme (une suite d'opération et d'instruction) en espèrant que l'ordinateur va pouvoir trouver des choses intéressantes.</p>
 L'exemple le plus classique est celui du **clustering** où la machine va essayer de séparer les données en groupes.
 
 Exemple de clustering:
@@ -89,18 +89,18 @@ imaginons que nous avons 100 perroquets. Pour chaque perroquet nous avons:
 5. Si oui ou non le perroquet a un/une partenaire
 6. Si oui ou non le perroquet est intelligent
 
-Les points 1 à 5 sont faciles à obtenir mais le point 6 est plus compliqué car il faut faire faire des tests aux perroquets.
-Nous allons donc donner à notre algorithme de machine learning juste les données de 1 à 5 en lui disant : à partir de ces points, je veux que tu me trouves le lien avec le point 6. L'algorithme va donc tout faire pour obtenir le point 6 à l'aide des autres. Une fois que la machine aura appris du mieux qu'elle peut comment obtenir ce qu'on lui a demandé d'obtenir, elle va nous retourner une fonction que l'on appelle **modèle** que l'on va pouvoir réutiliser (N.B. : le machine learning non supervisé retourne aussi un modèle).
+<p align="justify">Les points 1 à 5 sont faciles à obtenir mais le point 6 est plus compliqué car il faut faire faire des tests aux perroquets.</p>
+<p align="justify">Nous allons donc donner à notre algorithme de machine learning juste les données de 1 à 5 en lui disant : à partir de ces points, je veux que tu me trouves le lien avec le point 6. L'algorithme va donc tout faire pour obtenir le point 6 à l'aide des autres. Une fois que la machine aura appris du mieux qu'elle peut comment obtenir ce qu'on lui a demandé d'obtenir, elle va nous retourner une fonction que l'on appelle **modèle** que l'on va pouvoir réutiliser (N.B. : le machine learning non supervisé retourne aussi un modèle).</p>
 
-Grâce à ce modèle, lorsqu'un nouveau perroquet arrivera, il suffira de rapidement déterminer son âge, sexe, race, couleur de la plume arrière gauche et si il a un/une partenaire. On donnera ces informations au modèle qui nous dira alors si, d'après ce qu'il a appris, le perroquet est intelligent ou non permettant ainsi un gain de temps important.
+<p align="justify">Grâce à ce modèle, lorsqu'un nouveau perroquet arrivera, il suffira de rapidement déterminer son âge, sexe, race, couleur de la plume arrière gauche et si il a un/une partenaire. On donnera ces informations au modèle qui nous dira alors si, d'après ce qu'il a appris, le perroquet est intelligent ou non permettant ainsi un gain de temps important.</p>
 
 ### Complications
-Le principal problème du machine learning supervisé est qu'il faut avoir des données avec déjà certains résultats. Résultats qui peuvent parfois être compliqués à obtenir.
-De plus, il n'est pas toujours possible de prédire ce que l'on veut. Il est fort possible que pour notre exemple des perroquets, l'ordinateur n'arrive pas a trouver si le perroquet est intelligent en fonction des autres informations et dans ce cas il faut éventuellement trouver des données supplémentaires, supprimer des données non pertinentes ou (re)faire du feature engineering.
+<p align="justify">Le principal problème du machine learning supervisé est qu'il faut avoir des données avec déjà certains résultats. Résultats qui peuvent parfois être compliqués à obtenir.</p>
+<p align="justify">De plus, il n'est pas toujours possible de prédire ce que l'on veut. Il est fort possible que pour notre exemple des perroquets, l'ordinateur n'arrive pas a trouver si le perroquet est intelligent en fonction des autres informations et dans ce cas il faut éventuellement trouver des données supplémentaires, supprimer des données non pertinentes ou (re)faire du feature engineering.</p>
 
 
 # Conclusion
-Le travail du Data Scientist est en général cyclique. La plupart du temps il va récupérer des données, les traiter, et essayer de les exploiter grâce au machine learning par exemple mais si il n'obtient pas ce qu'il veut, il va recommencer en essayant de trouver de nouvelles informations qu'il va falloir retraiter puis re-exploiter.
+<p align="justify">Le travail du Data Scientist est en général cyclique. La plupart du temps il va récupérer des données, les traiter, et essayer de les exploiter grâce au machine learning par exemple mais si il n'obtient pas ce qu'il veut, il va recommencer en essayant de trouver de nouvelles informations qu'il va falloir retraiter puis re-exploiter.</p>
 
-C'est un travail qui peut sembler répétitif mais il est en réalité très varié car les données ne sont jamais les mêmes et il faut toujours s'adapter pour trouver le meilleur angle d'attaque. De plus, c'est toujours très gratifiant de découvrir ce qu'elles cachent et de réussir à construire un modèle qui permet de prédire ce que l'on veut.
-Il est à noter qu'en général, le Data Scientist ne crée pas les algorithmes de machine learning qui servent entre autre à la prediction mais il les connaît, sait comment ils fonctionnent et se tient au courant des innovations pour choisir et adapter celui qui sera le plus performant pour son problème.
+<p align="justify">C'est un travail qui peut sembler répétitif mais il est en réalité très varié car les données ne sont jamais les mêmes et il faut toujours s'adapter pour trouver le meilleur angle d'attaque. De plus, c'est toujours très gratifiant de découvrir ce qu'elles cachent et de réussir à construire un modèle qui permet de prédire ce que l'on veut.</p>
+<p align="justify">Il est à noter qu'en général, le Data Scientist ne crée pas les algorithmes de machine learning qui servent entre autre à la prediction mais il les connaît, sait comment ils fonctionnent et se tient au courant des innovations pour choisir et adapter celui qui sera le plus performant pour son problème.</p>
