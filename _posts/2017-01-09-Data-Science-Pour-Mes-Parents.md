@@ -2,7 +2,7 @@
 title: "La Data Science expliquée à mes parents"
 comments: false
 ---
-
+<p align="justify">
 # Introduction
 
 Ma mère s'est souvent demandé ce que je faisais en tant que Data Scientist, quelles étaient mes tâches quotidiennes, etc... Je vais donc essayer de donner ma vision du travail que je fais.
@@ -22,7 +22,6 @@ En réalité il est difficile de posséder toutes ces capacités chez une person
 
 
 ## Pourquoi faire ?
-<p align="justify">
 L'intérêt du Data Scientist dans une entreprise varie beaucoup.
 
 Dans une entreprise de vente en ligne, il va pouvoir analyser les actions des clients pour essayer de déterminer pourquoi ces derniers achétent ou n'achétent pas tel ou tel objet. Il va également pouvoir essayer de faire des liens entre les achats des différentes personnes pour que le site puisse ensuite proposer des produits personnalisé à chaque client.
