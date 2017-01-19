@@ -11,7 +11,7 @@ My mother often asked me what I did as Data Scientist, what were my everyday tas
 # The Data Scientist
 
 ## His duty
-The job of the Data Scientist is to explore data and informations to extract from them some value or any other interesting patterns.
+The job of the Data Scientist is to explore data and information to extract from them some value or any other interesting patterns.
 It is often said that the Data Scientist is an expert which combine statistics, IT and business expertise being also good in visualization and graphics creation.
 
 The skills of the Data Scientist are often summarize with this diagram:
@@ -28,7 +28,7 @@ The need for a Data Scientist change a lot according to the business of the comp
 
 In a e-commerce company, he will be able to analyze the customers actions to determine why they buy or don't buy a particular object. He is also going to discover the links between the purchase of the various customers so that the website is then able to offer some personalized products to each customers.
 
-In a gaz transmission company, the Data Scientist will be able to analyze the results of some sensors which records information about the state of the pipeline, the volume carried, the speed of transmission, etc... for then anticipate eventual accidents.
+In a gaz transmission company, the Data Scientist will be able to analyze the results of some sensors which records information about the state of the pipeline, the volume carried, the speed of transmission, etc... in order to anticipate eventual accidents.
 
 In the banking domain, he will be able to anlyze the data from the transaction of the customers to determine more easily frauds or personnal customers information (if a French customer suddenly buy for 10 000€ of pizza in a Shangaï restaurant, it is highly possible that the banking information of this customer have been robbed).
 
