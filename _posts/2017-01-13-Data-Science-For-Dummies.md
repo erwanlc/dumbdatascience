@@ -37,9 +37,9 @@ In the banking domain, he will be able to anlyze the data from the transaction o
 ## The data
 The main issue for the Data Scientist is to obtain the data. Without them, he can't do anything. Hopefully, it is more and more easy to find them nowadays. A lot of companies or public institutions give theirs freely. It is called Open Data because it is then possible to do whatever you want from these data.
 
-It is also possible to obtain them thanks to competitions often organized by companies but if is often forbidden to use them for commercial purpose.
+It is also possible to obtain them thanks to competitions, often organized by companies, but if is often forbidden to use them for commercial purpose.
 
-A lot of data can also be extracted from the web like for Twitter, Facebook, news website or classical web pages mais it is mandatory to verify that the websites allow the extraction of their webpage. This technic is called **Web Scraping**.
+A lot of data can also be extracted from the web like for Twitter, Facebook, news website or classical web pages but it is mandatory to verify that the websites allow the extraction of their webpage. This technic is called **Web Scraping**.
 
 But most of the time, the Data Scientist works on private entreprise data which are stored over time.
 
