@@ -43,14 +43,14 @@ A lot of data can also be extracted from the web like for Twitter, Facebook, new
 
 But most of the time, the Data Scientist works on private entreprise data which are stored over time.
 
-But where these data come from ? Nowadays, companies keep records of almost everything. For example, on most of the e-commerce website, it is common that every action, clic of a customer on the website is saved. Objects tend also to have more and more sensors which record a lot of information to help future improvement (example: new cars are full of sensors which record position, temparature of the ol, temperature of the engine, etc... to allow then the automobile constructors to determine most common issues).
+But where these data come from ? Nowadays, companies keep records of almost everything. For example, on most of the e-commerce website, it is common that every action, clic of a customer on the website is saved. Objects tend also to have more and more sensors which record a lot of information to help future improvement (example: new cars are full of sensors which record position, temparature of the oil, temperature of the engine, etc... to allow then the automobile constructors to determine most common issues).
 
 
 ## Data pre-processing
-Once the data in our possession, they must be prepared before being able to use them. Raw data are far from being perfet and it often misses some information or the format vary.
-That is why there is almost always a important work of data cleaning which consist in the modificattion of the data so they can be harmonized and usable.
+Once the data in our possession, they must be prepared before being able to use them. Raw data are far from being perfect and the format often vary or some of them are missing.
+That is why there is almost always a important work of data cleaning which consist in the modification of the data so they can be harmonized and usable.
 
-In addition of this cleaning process, the Data Scientist is sometimes forced to create new data from the existing ones in order to facilitate their interpretations. These new data can be created by the use of a calculation formula or even by splitting a variable intwo for example. We call this the **Feature Engineering**.
+In addition of this cleaning process, the Data Scientist is sometimes forced to create new data from the existing ones in order to facilitate their interpretations. These new data can be created by the use of a calculation formula or even by splitting a variable in two for example. We call this the **Feature Engineering**.
 
 
 ## The Machine Learning
@@ -64,8 +64,8 @@ The machine learning is separated in two groups:
 
 ### The Unsupervised Machine Learning
 This kind of machine learning is used when we have data but we don't really know what to look for, in which direction we want to go.
-The Data Scientist is going then to put the data he have through an algorithm ( a suite of operation and instruction) hoping that the computer is going to find some interesting features.
-The most common example is the **clustering** where the machine is going to split the data in groups
+The Data Scientist is going to put the data he have through an algorithm (a suite of operation and instruction) hoping that the computer is going to find some interesting features.
+The most common example is the **clustering** where the machine is going to split the data in groups.
 
 Example of clustering:
 
@@ -92,7 +92,7 @@ Lets imagine that we have 100 parrots. For each of the parrot we have:
 The points 1 to 5 can be obtain easily but the point 6 is more complicated because you need to make some test on the parrots.
 So we are going to give to our machine learning algorithm just the data from 1 to 5 telling it: with the variables, I want you to find the link with the point 6. The algorithm is going to do its best to obtain the variable 6 thanks to the others. Once that the computer will have learn the best way to obtain what we asked, it will return a function called **model** that we will be able to reuse (N.B. : the unsupervised machine learning also return a model).
 
-Thanks to this model, when a new parrots will come, we will just need to detect its age, sex, race, color of the bottom left feather and if it has a partner or not. We will then give these information to the model which will tell us then if, from what it learned before, the parrots is smart or not allowing us to earn some precious time.
+Thanks to this model, when a new parrots will come, we will just need to detect its age, sex, race, color of the bottom left feather and if it has a partner or not. We will then give these information to the model which will tell us then if, from what it learned before, the parrots is smart or not, allowing us to earn some precious time.
 
 ### Complications
 The principal issue of the supervised machine learning is that you need to have some data with already some results you want. These results can be sometimes difficult to find.
