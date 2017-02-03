@@ -39,7 +39,7 @@ Le premier problème auquel est confronté le Data Scientist est l'obtention des
 
 <p align="justify">Il est également possible d'en obtenir via des compétitions organisées par des entreprises mais il est alors souvent interdit d'en faire un usage commercial.</p>
 
-<p align="justify">Beaucoup de données peuvent également être récupérées d'internet comme des données de Twitter, Facebook, de site de d'informations ou encore de page internet classique mais il faut au préalable vérifier que le site autorise la récupération de ses pages web. On appelle cela le</p> **Web Scraping**.
+<p align="justify">Beaucoup de données peuvent également être récupérées d'internet comme des données de Twitter, Facebook, de site de d'informations ou encore de page internet classique mais il faut au préalable vérifier que le site autorise la récupération de ses pages web. On appelle cela le <b>Web Scraping</b>.</p>
 
 <p align="justify">Enfin, la plupart du temps, le Data Scientist travaille sur des données privées d'entreprise, accumulées au fil du temps.</p>
 
@@ -50,7 +50,7 @@ Le premier problème auquel est confronté le Data Scientist est l'obtention des
 <p align="justify">Une fois les données récupérées, il faut alors les préparer avant de pouvoir les utiliser. Les données sont souvent loin d'être parfaites et il manque parfois des informations ou alors les données d'un même projet ne sont pas toutes au même format.</p>
 <p align="justify">Il a donc presque toujours un gros travail de nettoyage qui consiste à modifier les données pour qu'elles soient harmonisées et utilisables. </p>
 
-<p align="justify">En plus du travail de nettoyage, le Data Scientist est parfois ammené à créer de nouvelles données à partir de celles existantes afin de faciliter leurs interprétations. Ces nouvelles données peuvent par exemple être créée en appliquant des formules de calcul sur des données existantes ou encore en séparant une donnée en deux. On appelle cela le</p> **Feature Engineering**.
+<p align="justify">En plus du travail de nettoyage, le Data Scientist est parfois ammené à créer de nouvelles données à partir de celles existantes afin de faciliter leurs interprétations. Ces nouvelles données peuvent par exemple être créée en appliquant des formules de calcul sur des données existantes ou encore en séparant une donnée en deux. On appelle cela le <b>Feature Engineering</b>.</p> 
 
 
 ## Le Machine Learning
