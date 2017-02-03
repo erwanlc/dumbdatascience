@@ -90,7 +90,7 @@ imaginons que nous avons 100 perroquets. Pour chaque perroquet nous avons:
 6. Si oui ou non le perroquet est intelligent
 
 <p align="justify">Les points 1 à 5 sont faciles à obtenir mais le point 6 est plus compliqué car il faut faire faire des tests aux perroquets.</p>
-<p align="justify">Nous allons donc donner à notre algorithme de machine learning juste les données de 1 à 5 en lui disant : à partir de ces points, je veux que tu me trouves le lien avec le point 6. L'algorithme va donc tout faire pour obtenir le point 6 à l'aide des autres. Une fois que la machine aura appris du mieux qu'elle peut comment obtenir ce qu'on lui a demandé d'obtenir, elle va nous retourner une fonction que l'on appelle **modèle** que l'on va pouvoir réutiliser (N.B. : le machine learning non supervisé retourne aussi un modèle).</p>
+<p align="justify">Nous allons donc donner à notre algorithme de machine learning juste les données de 1 à 5 en lui disant : à partir de ces points, je veux que tu me trouves le lien avec le point 6. L'algorithme va donc tout faire pour obtenir le point 6 à l'aide des autres. Une fois que la machine aura appris du mieux qu'elle peut comment obtenir ce qu'on lui a demandé d'obtenir, elle va nous retourner une fonction que l'on appelle <b>modèle</b> que l'on va pouvoir réutiliser (N.B. : le machine learning non supervisé retourne aussi un modèle).</p>
 
 <p align="justify">Grâce à ce modèle, lorsqu'un nouveau perroquet arrivera, il suffira de rapidement déterminer son âge, sexe, race, couleur de la plume arrière gauche et si il a un/une partenaire. On donnera ces informations au modèle qui nous dira alors si, d'après ce qu'il a appris, le perroquet est intelligent ou non permettant ainsi un gain de temps important.</p>
 
