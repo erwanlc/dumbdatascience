@@ -7,7 +7,7 @@ comments: false
 
 My mother often asked me what I did as Data Scientist, what were my everyday tasks, etc... So I am going to try to explain my work.
 
-
+<br>
 
 # The Data Scientist
 
@@ -33,7 +33,7 @@ In a gaz transmission company, the Data Scientist will be able to analyze the re
 
 In the banking domain, he will be able to anlyze the data from the transaction of the customers to determine more easily frauds or personnal customers information (if a French customer suddenly buy for 10 000€ of pizza in a Shangaï restaurant, it is highly possible that the banking information of this customer have been robbed).
 
-
+<br>
 
 # In practice
 
@@ -101,7 +101,7 @@ Thanks to this model, when a new parrots will come, we will just need to detect 
 The principal issue of the supervised machine learning is that you need to have some data with already some results you want. These results can be sometimes difficult to find.
 Moreover, it is not always possible to predict what we want, there is a high probability that for our parrots example, the computer won't be able to find if the parrot is smart or not thanks to the other information we have and in this case, we will probably need to find some additional data, delete some useless variables or (re)make some feature engineering.
 
-
+<br>
 
 # Conclusion
 The work of the Data Scientist is in general cyclic. Most of the time, he will get some data, process them and try to use them thanks to machine learning for example but if he can't get what he want, he is going to restart with some new data which he will need to reprocess and reuse.
