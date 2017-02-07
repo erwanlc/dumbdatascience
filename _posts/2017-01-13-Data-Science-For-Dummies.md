@@ -8,6 +8,7 @@ comments: false
 My mother often asked me what I did as Data Scientist, what were my everyday tasks, etc... So I am going to try to explain my work.
 
 
+
 # The Data Scientist
 
 ## His duty
@@ -31,6 +32,8 @@ In a e-commerce company, he will be able to analyze the customers actions to det
 In a gaz transmission company, the Data Scientist will be able to analyze the results of some sensors which records information about the state of the pipeline, the volume carried, the speed of transmission, etc... in order to anticipate eventual accidents.
 
 In the banking domain, he will be able to anlyze the data from the transaction of the customers to determine more easily frauds or personnal customers information (if a French customer suddenly buy for 10 000€ of pizza in a Shangaï restaurant, it is highly possible that the banking information of this customer have been robbed).
+
+
 
 # In practice
 
@@ -97,6 +100,7 @@ Thanks to this model, when a new parrots will come, we will just need to detect 
 ### Complications
 The principal issue of the supervised machine learning is that you need to have some data with already some results you want. These results can be sometimes difficult to find.
 Moreover, it is not always possible to predict what we want, there is a high probability that for our parrots example, the computer won't be able to find if the parrot is smart or not thanks to the other information we have and in this case, we will probably need to find some additional data, delete some useless variables or (re)make some feature engineering.
+
 
 
 # Conclusion
