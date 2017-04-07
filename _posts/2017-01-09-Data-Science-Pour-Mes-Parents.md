@@ -32,7 +32,7 @@ L'intérêt du Data Scientist dans une entreprise varie beaucoup.
 <p align="justify">Dans le domaine bancaire il va pouvoir analyser les données des transactions des clients afin de déterminer plus facilement les cas de fraudes ou de vols d'informations clients (si un client Français achète soudainement pour 10 000€ de pizza depuis la Chine, il est possible que ce client ce soit fait voler ses informations bancaires).
 </p>
 
-<br></br>
+<br>
 
 # Mais concrètement ?
 
@@ -101,7 +101,7 @@ imaginons que nous avons 100 perroquets. Pour chaque perroquet nous avons:
 <p align="justify">Le principal problème du machine learning supervisé est qu'il faut avoir des données avec déjà certains résultats. Résultats qui peuvent parfois être compliqués à obtenir.</p>
 <p align="justify">De plus, il n'est pas toujours possible de prédire ce que l'on veut. Il est fort possible que pour notre exemple des perroquets, l'ordinateur n'arrive pas a trouver si le perroquet est intelligent en fonction des autres informations et dans ce cas il faut éventuellement trouver des données supplémentaires, supprimer des données non pertinentes ou (re)faire du feature engineering.</p>
 
-<br></br>
+<br>
 
 # Conclusion
 <p align="justify">Le travail du Data Scientist est en général cyclique. La plupart du temps il va récupérer des données, les traiter, et essayer de les exploiter grâce au machine learning par exemple mais si il n'obtient pas ce qu'il veut, il va recommencer en essayant de trouver de nouvelles informations qu'il va falloir retraiter puis re-exploiter.</p>
