@@ -7,7 +7,7 @@ comments: false
 
 <p align="justify">Ma mère s'est souvent demandé ce que je faisais en tant que Data Scientist, quelles étaient mes tâches quotidiennes, etc... Je vais donc essayer de donner ma vision du travail que je fais.</p>
 
-<br></br>
+<br>
 
 # Le Data Scientist
 
