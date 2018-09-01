@@ -1,7 +1,7 @@
 ---
-title:  atest
-header:
-  image:  mm-browser-mockups.png
+
+title: "My First post"
+comments: false
 gallery:
   - url: mm-layout-examples.png
     image_path: mm-layout-examples.png
